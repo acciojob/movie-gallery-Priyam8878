@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.fluid{
+	display:grid;
+	 grid-template-columns: ;
+}
+
+}
